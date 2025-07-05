@@ -30,22 +30,23 @@ This repository utilizes deep learning and machine learning techniques to classi
 
 
 📌 Rice Varieties Used:
-Arborio
+- Arborio
 
-Basmati
+- Basmati
 
-Ipsala
+- Ipsala
 
-Jasmine
+- Jasmine
 
-Karacadag
+- Karacadag
 
 📷 Dataset Size:
-75,000 total images
 
-15,000 images per rice variety
+- 75,000 total images
 
-106 extracted features (12 morphological, 4 shape, 90 color)
+- 15,000 images per rice variety
+
+- 106 extracted features (12 morphological, 4 shape, 90 color)
 
 🧠 Model Accuracy Results:
 
